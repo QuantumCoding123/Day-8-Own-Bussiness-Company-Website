@@ -30,7 +30,8 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 3
 
-![Uploading Screenshot (37).png…]()
+![Screenshot (37)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/f41cdd30-e22b-4f07-95b6-367caa3924fb)
+
 
 # Output - 4
 
